@@ -11,7 +11,7 @@ Trip to Outerbanks
 ------------------
 
 <div class="post-image">
-    <img src="img/gang.jpg/gang" />
+    <img src="img/gang.jpg" />
     <p class="post-image-caption">This is the gang at least on this trip. Some of us left Lexington and met up with the New York folks in South Carolina
 
 <div class="post-image post-image--split">
@@ -31,7 +31,7 @@ Trip to Outerbanks
     </p>
 </div>
 <div class="post-image">
-    <img src="img/107.jpg/" />
+    <img src="img/107.jpg" />
     <p class="post-image-caption">Frank and Steve taking a break after walking around the grounds
 
 <div class="post-image post-image--split">
@@ -52,7 +52,7 @@ Trip to Outerbanks
 </div>
 
 <div class="post-image">
-    <img src="img/112.jpg/" />
+    <img src="img/112.jpg" />
     <p class="post-image-caption">Bridge from Charston to James Islands
 
 <div class="post-image post-image--split">
@@ -72,7 +72,7 @@ Trip to Outerbanks
     </p>
 </div>
 <div class="post-image">
-    <img src="img/115.jpg/" />
+    <img src="img/115.jpg" />
     <p class="post-image-caption"> Boone Hall Plantation & Garden just North west of Charlston, SC.
 
 <div class="post-image post-image--split">

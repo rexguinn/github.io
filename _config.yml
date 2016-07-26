@@ -14,7 +14,7 @@ email: ragwing@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A Motorcycle travelog showing some of our motorcycle trips over last 50 years.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ragwing.github.io" 
+url: "http://rexguinn.github.io" 
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
